@@ -78,8 +78,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 For support or inquiries, reach out via:
-- **Email:** support@maibrain.com
-- **Website:** [maibrain.com](https://maibrain.com)
+- **Email:** support@maibrain.ai
+- **Website:** [maibrain.com](https://maibrain.ai)
 - **GitHub Issues:** [Report a Bug](https://github.com/your-repo/Maibrain/issues)
 
 ---
